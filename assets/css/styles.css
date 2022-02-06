@@ -90,7 +90,7 @@
 }
 
 .form-group {
-  flex-grow: 1;
+  flex: 1 1 32rem;
 }
 
 .form-group label {
